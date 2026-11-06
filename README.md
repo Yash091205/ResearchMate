@@ -236,8 +236,7 @@ What are the three main types of Machine Learning?
 Expected Answer:
 
 ```text
-Supervised learning, unsupervised learning,
-and reinforcement learning.
+Supervised learning, unsupervised learning, and reinforcement learning.
 ```
 
 ---
