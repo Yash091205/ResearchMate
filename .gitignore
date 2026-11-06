@@ -1,0 +1,44 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# IDE settings
+.vscode/
+.idea/
+
+# Hugging Face model weights and cache
+*.bin
+*.safetensors
+*.pt
+*.pth
+.cache/
+huggingface/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Distribution and build files
+*.egg-info/
+dist/
+build/
