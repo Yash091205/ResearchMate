@@ -103,7 +103,7 @@ ResearchMate/
 │
 ├── screenshots/
 │   ├── home.png
-│   └── question-answering.png
+│   └── QA_img.png
 │
 ├── app.py              # Streamlit application interface
 ├── model.py            # Model loading and inference logic
@@ -131,10 +131,8 @@ The application can also run on a CPU without an NVIDIA GPU.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ResearchMate.git
+git clone https://github.com/Yash091205/ResearchMate.git
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username after creating the repository.
 
 ### Step 2: Navigate to the Project Directory
 
@@ -384,7 +382,9 @@ Built using open-source technologies:
 
 BE – Artificial Intelligence and Data Science Engineering
 
-GitHub: https://github.com/Yash091205
+- GitHub: https://github.com/Yash091205
+- LinkedIn: https://www.linkedin.com/in/yash-shirsath0912/
+- Email: yashshirsath0912@gmail.com
 
 ---
 
